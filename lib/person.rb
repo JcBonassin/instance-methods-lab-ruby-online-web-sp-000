@@ -3,5 +3,5 @@ class Person
     puts "Hello World!"
   end
 
-  def 
+  def
 end
